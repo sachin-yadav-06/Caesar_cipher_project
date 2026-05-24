@@ -46,7 +46,7 @@ Enter shift value (1-25): 7
 ```
 > 📷 *Screenshot: Encryption output — plaintext converted to ciphertext with shift 7*
 
-![Encrypt Output](screenshots/task01_02_encrypt.png)
+![Encrypt Output] <img width="750" height="237" alt="Image" src="https://github.com/user-attachments/assets/e182bfb5-646c-4918-b859-2a0410e6be4c" />
 
 ---
 
@@ -62,7 +62,7 @@ Enter shift value (1-25): 7
 ```
 > 📷 *Screenshot: Decryption restores original message using the same shift key*
 
-![Decrypt Output](screenshots/task01_03_decrypt.png)
+![Decrypt Output] <img width="750" height="237" alt="Image" src="https://github.com/user-attachments/assets/65863c9a-b9e1-49a0-90be-3433805829dc" />
 
 ---
 
@@ -86,7 +86,7 @@ Enter ciphertext to brute-force: Olssv, Zhjopu Fhkha!
 ```
 > 📷 *Screenshot: All 26 possible decryptions — shift 7 reveals the readable message*
 
-![Brute Force](screenshots/task01_04_bruteforce.png)
+![Brute Force]<img width="800" height="391" alt="Image" src="https://github.com/user-attachments/assets/6d171977-626f-4d01-b491-677567c4c4ed" />
 
 ---
 
