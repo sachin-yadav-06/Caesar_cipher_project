@@ -30,7 +30,7 @@ Enter choice (1-4): _
 ```
 > 📷 *Screenshot: Tool banner and interactive menu on launch*
 
-![Main Menu](screenshots/task01_01_menu.png)
+![Main Menu] <img width="750" height="347" alt="Image" src="https://github.com/user-attachments/assets/f582d90a-51a0-45d8-8ade-0f5dfc5e8596" />
 
 ---
 
